@@ -15,3 +15,12 @@ ANSWER: Copy an existing repo onto your own machine
 3. Once you've cloned the repo, how do you open it in VS Code?
 
 ANSWER: Navigate to it from the terminal using cd then running "code ."
+
+          __
+     w  c(..)o   (
+      \__(-)    __)
+          /\   (
+         /(_)___)
+         w /|
+          | \
+ejm97    m  m
